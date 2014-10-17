@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rmt:home|Door43 (rmt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rmt|d43-rmt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rmt/archive/master.zip|d43-rmt.zip]]
+
+**Recent Changes**
+{{changes>ns = rmt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rmt|Ethnologue data]]
+
